@@ -1,0 +1,23 @@
+.menu{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    color: white;
+   
+    width: 1000px;
+ 
+}
+nav{
+    position: fixed;
+    margin-top: 3px;
+}
+select{
+    border: none;
+    color: white;
+    width: 80px;
+}
+option{
+    background-color: white;
+    color: black;
+    border: none;
+}
